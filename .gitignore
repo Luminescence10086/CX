@@ -32,3 +32,6 @@ obj/
 *~
 Thumbs.db
 desktop.ini
+
+# Code Runner 临时文件
+tempCodeRunnerFile.c

@@ -51,7 +51,7 @@ int tryMove(int dr, int dc) {
 }
 
 int main(void) {
-    system("color 0a");     /* 黑底绿字，可删 */
+    system("color 0a");     
     draw();
 
     int ch;
